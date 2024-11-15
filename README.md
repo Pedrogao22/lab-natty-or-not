@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação do Avatar Pibelle
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto foi criado com o intuito de auxiliar pessoas sobre localização de nossa Igreja Chamada PIBG - Primeira Igreja Batista de Guarulhos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foram ultilizadas as ferramentas
+ChatGPT
+D-ID 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação foi da seguinte maneira:
+1º Com o auxilio do chat GPT decidi o nome do avatar e o roteiro de respostas
+2º Com o auxilio do D-ID criei um Avatar com algumas informações internas nos quais o deixou natural ao responder perguntas tanto do clima como da programação semanal da Igreja.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi stisfátorio, usei algumas pessoas como teste e o Avatar conseguiu suprir todas as duvidas.
+Podem verificar no link abaixo o resultado de forma prática.
+https://studio.d-id.com/agents/share?id=agt_kTsVCZ12&utm_source=copy&key=WjI5dloyeGxMVzloZFhSb01ud3hNRGc1TWpJMk9ESTVNVFl4TURJeE1EZ3lNelk2WkVKWWFqZEJXRGhGWm1oT2JGTnFTa1ZMUnpVeA==
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio Natty IA foi extremamente cativante auxiliando na exploração da area e conhecimento de novas metodologias.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
